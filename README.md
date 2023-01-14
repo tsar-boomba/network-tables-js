@@ -1,2 +1,2 @@
-# network-tables-js
+# net-tabs
 WPI Network Tables Implementation in TypeScript

@@ -3,6 +3,7 @@
 		/* Language and Environment */
 		"target": "es2020",
 		"lib": ["es2020", "dom"],
+		"noEmit": true,
 
 		/* Modules */
 		"module": "es2015",
